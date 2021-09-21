@@ -1,6 +1,3 @@
-# José Manuel Salgueiro
-## Estudiante de Ingeniería en Computación
-
 ### Acerca de mí
 
 Mis amigos y familia suelen decirme "Manu". Soy marplatense, me gusta leer ciencia ficción y salir a correr cuando me hago un poco de tiempo.
