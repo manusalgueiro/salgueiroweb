@@ -1,6 +1,6 @@
 # José Manuel Salgueiro
 
-![Manu Salgueiro](https://github.com/manusalgueiro/salgueiroweb/blob/main/me.jpg?raw=true)
+<img src="https://github.com/manusalgueiro/salgueiroweb/blob/main/me.jpg?raw=true" width="160" height="160" alt="Manu Salgueiro" />
 
 ## Acerca de mí
 
