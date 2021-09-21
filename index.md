@@ -41,3 +41,8 @@ Agosto 2021: Trabajo Final de Programación Estructurada en Lenguaje C
 
 Desde el año 2012 trabajo como Pagador en el Casino Central de Mar del Plata. Hasta que aparezca alguna oportunidad dentro del campo de la computación y/o logre concluir mis estudios, me verán allí diciendo "no va más...!"
 
+### Contacto
+
+*manusalgueiro@outlook.com*
+
+*Mar del Plata, Buenos Aires, Argentina.*
