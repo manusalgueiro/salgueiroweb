@@ -34,7 +34,7 @@ Mis comienzos fueron un poco torpes y sin un camino claro. Sin conocer ni dispon
 
 Aquí podrá ver algunos de mis programas y trabajos realizados, principalmente en C y C++. A medida que pase el tiempo, agregaré más enlaces:
 
-Agosto 2021: Trabajo Final de Programación Estructurada en Lenguaje C
+Agosto 2021: [Trabajo Final de Programación Estructurada en Lenguaje C](https://github.com/manusalgueiro/tp_final_estruct_2021) 
 
 ## Dónde trabajo
 
