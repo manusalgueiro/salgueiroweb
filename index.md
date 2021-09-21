@@ -1,5 +1,7 @@
 # José Manuel Salgueiro
 
+![Manu Salgueiro](https://github.com/manusalgueiro/salgueiroweb/blob/main/me.jpg?raw=true)
+
 ## Acerca de mí
 
 Mis amigos y familia suelen decirme "Manu". Soy marplatense, me gusta leer ciencia ficción y salir a correr cuando me hago un poco de tiempo.
